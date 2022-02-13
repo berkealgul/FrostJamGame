@@ -1,6 +1,6 @@
 # FrostJamGame
 
-Beatiful jam game
+Beatiful jam game for OTG frost jam 4 13.02.2022
 
 [itch io](https://quanintium.itch.io/one-more-blood) 
 
