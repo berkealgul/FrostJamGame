@@ -4,5 +4,5 @@ Beatiful jam game
 
 [itch io](https://quanintium.itch.io/one-more-blood) 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-![alt text](https://github.com/FrostJamGame/screenshots/HighresScreenshot00000.png "Logo Title Text 1")
+![](https://github.com/FrostJamGame/screenshots/HighresScreenshot00001.png "Logo Title Text 1")
+![](https://github.com/FrostJamGame/screenshots/HighresScreenshot00000.png "Logo Title Text 1")
